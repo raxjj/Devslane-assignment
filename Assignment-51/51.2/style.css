@@ -1,0 +1,17 @@
+.bg-green{
+  background:green;
+}
+
+.border{
+  margin-top:10px;
+  border:2px dotted ;
+  padding:5px;
+  height:20px;
+}
+
+.display{
+  display:flex;
+  justify-content:center;
+  height:300px;
+  border:10px black solid;
+}
